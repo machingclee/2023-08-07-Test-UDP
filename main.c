@@ -1,11 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <WinSock2.h>
+// #include <WinSock2.h>
+#include <sys/socket.h>
 #include <sys/types.h>
-#include <WS2tcpip.h>
+// #include <WS2tcpip.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
 
-#pragma comment(lib, "wsock32.lib")
+// #pragma comment(lib, "wsock32.lib")
 
 int main(int argc, char** argv)
 {

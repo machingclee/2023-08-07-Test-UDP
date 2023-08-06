@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/chingcheonglee/Repos/C/2023-08-07-Test-UDP/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-gcc-12   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/UDP_SERVER.dir/main.c.o -c /Users/chingcheonglee/Repos/C/2023-08-07-Test-UDP/main.c",
+  "file": "/Users/chingcheonglee/Repos/C/2023-08-07-Test-UDP/main.c"
+}
+]
